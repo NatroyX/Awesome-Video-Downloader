@@ -197,5 +197,3 @@ If you encounter any issues or have suggestions, feel free to open an issue on t
 **Email**: xnatroy@gmail.com
 
 ---
-
-Feel free to customize the placeholders (e.g., email, repository URL) with your actual information before publishing the project on GitHub.
